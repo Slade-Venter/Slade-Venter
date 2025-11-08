@@ -1,16 +1,28 @@
-## Hi there 👋
+# Allo, I’m Slade Venter
 
-<!--
-**Slade-Venter/Slade-Venter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring Cyber Security Analyst and Red Team enthusiast from Australia, passionate about offensive security, threat intelligence, and cloud environments.
 
-Here are some ideas to get you started:
+-   **Certifications:**
+-   Certificate IV in Cyber Security (TAFE Queensland), AWS Academy Cloud Architecting
+  
+-   **Labs:**
+-   TryHackMe | Offensive Security | Incident Response | Cloud Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   **Technical Interests:** Penetration Testing, Threat Hunting, Digital Forensics, AWS Security
+
+-  **Current Projects:**  
+  - [TryHackMe PT1 & SOC1 Exam Prep, will post my Clickup study plan once exams are completed]  
+  - Home SOC Lab (under development)
+      - Full write-up on this soon will include parts lists
+   
+- **Connect:**
+- [LinkedIn](https://linkedin.com/in/sladeventer)  
+- [TryHackMe](https://tryhackme.com/p/Venter)
+---
+
+### 🧩 My Current Learning Focus
+```text
+- Deepening Red Team and Incident Response skills
+- Understanding SIEM and EDR controls
+- Practicing privilege escalation and pivoting in lab networks
+- Writing professional-grade documentation for each challenge
