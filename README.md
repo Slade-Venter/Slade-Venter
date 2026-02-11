@@ -1,6 +1,6 @@
 # Allo, I’m Slade Venter
 
-I’m an aspiring offensive security specialist and cyber sec enthusiast from Australia, passionate about offensive security, threat intelligence, and cloud environments.
+I’m an aspiring Cybersecurity specialist and red team enthusiast from Australia, passionate about offensive security, threat intelligence, and cloud environments.
 
 ---
 
