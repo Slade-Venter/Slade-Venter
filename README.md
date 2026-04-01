@@ -15,7 +15,8 @@ I’m an aspiring Cybersecurity specialist and red team enthusiast from Australi
 Penetration Testing • Threat Hunting • Digital Forensics • AWS Security
 
 ### Current Projects
-- [TryHackMe PT1 & SOC1 Exam Prep – full ClickUp study plan coming soon]  
+- Wifi Hacking Project to showcase at CrikeyCon12
+- [OSCP Exam – full ClickUp study plan coming soon]  
 - Home SOC Lab *(in development — full parts list & write-up coming soon)*
 
 ### Connect
