@@ -24,11 +24,11 @@ The challenge used a deterministic fake AI hiring agent and an intended attack c
 - Frontend-only redaction
 - Raw audit transcript leakage
 
-The challenge was built with Flask and Docker, deployed at the live event, and solved by four participants.
+The challenge was built with Flask and Docker, deployed at the live event.
 
 ### [Operation Southern Cross — CrikeyCon 11](https://github.com/Slade-Venter/operation-southern-cross-writeup)
 
-Designed and hosted a beginner-friendly, remediation-focused purple-team incident response CTF for more than 30 participants.
+Designed and hosted a beginner-friendly, remediation-focused purple-team incident response CTF for more participants
 
 The environment simulated a Security Operations Centre investigation and included:
 
