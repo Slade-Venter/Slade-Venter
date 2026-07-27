@@ -54,7 +54,7 @@ Completed a malware-analysis and threat-intelligence investigation involving fil
 - Placed **13th out of 50** at the BSides Brisbane CTF, competing primarily solo
 - Built and deployed a live CTF challenge for BSidesBNE 2026
 - Designed and hosted the Operation Southern Cross incident response CTF at CrikeyCon 11
-- Completed the TryHackMe PT1 assessment with a full score on the first attempt
+- Teach CTF and incident Response workshops with QUT Cyber Squad
 - Completed a multi-stage Red Team Capstone covering initial access, pivoting, Kerberoasting, credential access, Group Policy abuse, and domain compromise
 
 ## Technical Focus
