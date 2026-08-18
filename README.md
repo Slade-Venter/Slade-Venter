@@ -28,14 +28,16 @@ The challenge was built with Flask and Docker, deployed at the live event.
 
 ### [Operation Southern Cross — CrikeyCon 11](https://github.com/Slade-Venter/operation-southern-cross-writeup)
 
+*Currently hidden in prepartion of GRC clubs CTF event, QUT GRC students: if you're already digging through my GitHub looking for clues, you're exactly the kind of person this CTF was made for. Have a flag: `flag{cleverCTFever}` 😏*
+
 Designed and hosted a beginner-friendly, remediation-focused purple-team incident response CTF for more participants
 
 The environment simulated a Security Operations Centre investigation and included:
 
 - A custom Flask SOC portal
 - Docker and CTFd infrastructure
-- Operational Event Records and investigation artefacts
-- Broken access control through IDOR
+- {REDACTED} event Records and investigation {REDACTED}
+- {REDACTED} through {REDACTED}
 - Log and evidence analysis
 - Impact assessment and remediation scoring
 
